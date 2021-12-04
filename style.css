@@ -1,0 +1,33 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #fea406;
+}
+
+.bi {
+  background-color: #f8f3dd;
+  color: #000000;
+  font-family: Forum;
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+#parceiros {
+  background-color: #06fed5;
+  font-family: forum;
+}
+
+#serviços {
+  background: #f8f3dd;
+  font-family: forum;
+}
+
+.bk-footer {
+  background-color: #000000;
+  color: #ffffff;
+}
